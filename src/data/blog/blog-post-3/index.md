@@ -6,7 +6,7 @@ description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. M
 date: '2019-11-13'
 tags: ['Portfolio']
 published: true
-link: "http://digitalfiery.com/"
+link: ""
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
